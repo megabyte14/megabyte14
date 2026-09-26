@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mehal Borhade</h1>
+<h1 align="center">Mehal</h1>
 <h3 align="center">Computer Engineering Student | Aspiring Full-Stack Developer</h3>
 
 <p align="center">
@@ -7,8 +7,9 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=megabyte14" alt="megabyte14" />
-  </a>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=megabyte14" alt="GitHub Profile Trophies" />
+</p>  </a>
 </p>
 
 <h2 align="left">「 ABOUT ME 」</h2>
@@ -103,15 +104,10 @@
   </a>
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=megabyte14&show_icons=true&locale=en&layout=compact" alt="megabyte14" />
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=megabyte14&layout=compact" alt="Most Used Languages" />
+  &nbsp;&nbsp;&nbsp;
 </p>
-
-<p>
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=megabyte14&show_icons=true&locale=en" alt="megabyte14" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=megabyte14&" alt="megabyte14" />
 </p>
